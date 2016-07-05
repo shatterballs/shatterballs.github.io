@@ -7,7 +7,7 @@
 
 # Site settings
 title: triballs' corner
-email: appleburps@ymail.com
+email: "appleburps@ymail.com"
 description: "hello"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
